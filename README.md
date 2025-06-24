@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1AZtrHgPy1-PQHWM9jBlqQMLfPiSeCaGd/view?usp=sharing" target="_blank">
-    <img src="/public/s1.png" alt="Demo Video" width="400" />
+    <img src="/public/v.png" alt="Demo Video" width="400" />
   </a>
 </p>
 
