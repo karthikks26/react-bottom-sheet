@@ -11,13 +11,63 @@
 
 ## 📸 Screenshots
 
-1. ![Screenshot 1](public/s1.png)
-2. ![Screenshot 2](public/s2.png)
-3. ![Screenshot 3](public/s3.png)
-4. ![Screenshot 4](public/s4.png)
-5. ![Screenshot 5](public/s5.png)
-6. ![Screenshot 6](public/s6.png)
-7. ![Screenshot 7](public/s7.png)
+## 📸 Screenshots
+
+### **Screenshot 1**
+
+<p align="center">
+  <img src="/public/s1.png" alt="Screenshot 1" width="400"/>
+</p>
+<br>
+<hr>
+
+### **Screenshot 2**
+
+<p align="center">
+  <img src="/public/s2.png" alt="Screenshot 2" width="400"/>
+</p>
+<br>
+<hr>
+
+### **Screenshot 3**
+
+<p align="center">
+  <img src="/public/s3.png" alt="Screenshot 3" width="400"/>
+</p>
+<br>
+<hr>
+
+### **Screenshot 4**
+
+<p align="center">
+  <img src="/public/s4.png" alt="Screenshot 4" width="400"/>
+</p>
+<br>
+<hr>
+
+### **Screenshot 5**
+
+<p align="center">
+  <img src="/public/s5.png" alt="Screenshot 5" width="400"/>
+</p>
+<br>
+<hr>
+
+### **Screenshot 6**
+
+<p align="center">
+  <img src="/public/s6.png" alt="Screenshot 6" width="400"/>
+</p>
+<br>
+<hr>
+
+### **Screenshot 7**
+
+<p align="center">
+  <img src="/public/s7.png" alt="Screenshot 7" width="400"/>
+</p>
+<br>
+<hr>
 
 ---
 
