@@ -7,15 +7,19 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?logo=react)](https://reactjs.org/)
 
+---
+
 ## 📸 Screenshots
 
-![Screenshot 1](public/s1.png)
-![Screenshot 2](public/s2.png)
-![Screenshot 3](public/s3.png)
-![Screenshot 4](public/s4.png)
-![Screenshot 5](public/s5.png)
-![Screenshot 6](public/s6.png)
-![Screenshot 7](public/s7.png)
+1. ![Screenshot 1](public/s1.png)
+2. ![Screenshot 2](public/s2.png)
+3. ![Screenshot 3](public/s3.png)
+4. ![Screenshot 4](public/s4.png)
+5. ![Screenshot 5](public/s5.png)
+6. ![Screenshot 6](public/s6.png)
+7. ![Screenshot 7](public/s7.png)
+
+---
 
 ## 🎯 Assignment Overview
 
@@ -30,9 +34,13 @@ This project implements a **React Bottom Sheet component** with multiple snap po
 - ✅ **Manual Controls** - Button controls and keyboard navigation
 - ✅ **Responsive Design** - Optimized for desktop and mobile devices
 
+---
+
 ## 🚀 Live Demo
 
 **[View Live Demo](https://react-bottom-sheet-dusky.vercel.app/)**
+
+---
 
 ## 🛠️ Technology Stack
 
@@ -44,6 +52,8 @@ This project implements a **React Bottom Sheet component** with multiple snap po
 | **Tailwind CSS** | 4.0+    | Utility-first styling                           |
 | **Lucide React** | 0.523.0 | Modern icon library                             |
 
+---
+
 ## 📦 Installation & Setup
 
 ### Prerequisites
@@ -54,65 +64,60 @@ This project implements a **React Bottom Sheet component** with multiple snap po
 
 ### Quick Start
 
-\`\`\`bash
-
+```bash
 # 1. Clone the repository
-
 git clone https://github.com/karthikks26/react-bottom-sheet.git
 cd react-bottom-sheet-assignment
 
 # 2. Install dependencies
-
 npm install
 
 # 3. Start development server
-
 npm run dev
 
 # 4. Open in browser
-
 # Navigate to http://localhost:3000
-
-\`\`\`
+```
 
 ### Available Scripts
 
-\`\`\`bash
-
+```bash
 # Development
-
-npm run dev # Start development server
-npm run build # Build for production
-npm run start # Start production server
+npm run dev         # Start development server
+npm run build       # Build for production
+npm run start       # Start production server
 
 # Code Quality
+npm run lint        # Run ESLint
+npm run type-check  # TypeScript type checking
+```
 
-npm run lint # Run ESLint
-npm run type-check # TypeScript type checking
-\`\`\`
+---
 
 ## 🏗️ Project Structure
 
-\`\`\`
+```
 react-bottom-sheet-assignment/
 ├── app/
-│ ├── globals.css # Global styles and animations
-│ ├── layout.tsx # Root layout component
-│ └── page.tsx # Main demo page
+│   ├── globals.css          # Global styles and animations
+│   ├── layout.tsx           # Root layout component
+│   └── page.tsx             # Main demo page
 ├── components/
-│ ├── ui/ # Reusable UI components
-│ │ ├── badge.tsx
-│ │ ├── button.tsx
-│ │ └── card.tsx
-│ └── bottom-sheet.tsx # Core BottomSheet component
+│   ├── ui/                  # Reusable UI components
+│   │   ├── badge.tsx
+│   │   ├── button.tsx
+│   │   └── card.tsx
+│   └── bottom-sheet.tsx     # Core BottomSheet component
 ├── lib/
-│ └── utils.ts # Utility functions
-├── public/ # Static assets and screenshots
-├── package.json # Dependencies and scripts
-├── tailwind.config.ts # Tailwind configuration
-├── tsconfig.json # TypeScript configuration
-└── README.md # This file
-\`\`\`
+│   └── utils.ts             # Utility functions
+├── public/                  # Static assets and screenshots
+├── package.json             # Dependencies and scripts
+├── tailwind.config.ts       # Tailwind configuration
+├── tsconfig.json            # TypeScript configuration
+└── README.md                # This file
+```
+
+---
 
 ## 🎮 Features & Usage
 
@@ -157,26 +162,30 @@ react-bottom-sheet-assignment/
 - **Backdrop Opacity**: Shows sheet state
 - **Button States**: Disabled when not applicable
 
+---
+
 ## 🚀 Deployment
 
 ### Vercel (Recommended)
 
-\`\`\`bash
-
+```bash
 # Install Vercel CLI
-
 npm i -g vercel
 
 # Deploy
-
 vercel
+```
 
-# Or connect GitHub repository to Vercel dashboard
-
-\`\`\`
+Or connect the GitHub repository directly to the **Vercel dashboard** for automatic deployment.
 
 ### Other Platforms
 
-- **Netlify**: `npm run build` → Deploy build output
+- **Netlify**: `npm run build` → deploy `/out` folder
 - **AWS Amplify**: Connect GitHub repository
-- **GitHub Pages**: Configure for static deployment
+- **GitHub Pages**: Configure static export (if needed)
+
+---
+
+## 📫 Contact
+
+If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/karthikks26/react-bottom-sheet/issues).
