@@ -11,8 +11,6 @@
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### **Screenshot 1**
 
 <p align="center">
